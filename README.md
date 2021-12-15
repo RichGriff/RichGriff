@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a Housing App project**
 
-- 🌱 I’m currently learning **React, Node, React Native**
+- 🌱 I’m currently learning **React, Node, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://richardgriffiths-portfolio.netlify.app/](https://richardgriffiths-portfolio.netlify.app/)
 
