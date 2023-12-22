@@ -3,13 +3,13 @@
 
 &nbsp;
 
-- 🔭 I’m currently working on **a Housing App project**
+- 🔭 I’m currently working on **Form Builder SaSS App**
 
-- 🌱 I’m currently learning **React, Node, Next.js**
+- 🌱 I’m currently learning **Nextjs, Prisma and Next Auth**
 
-- 👨‍💻 All of my projects are available at [https://richardgriffiths-portfolio.netlify.app/](https://richardgriffiths-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://richardgriffiths-portfolio.netlify.app/](https://richardgriffiths-portfolio.netlify.app/) - new portfolio coming soon!
 
-- 💬 Ask me about **Anything!**
+- 💬 Ask me about **Anything Web!**
 
 - 📫 How to reach me **rich.griffiths89@gmail.com**
 
