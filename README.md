@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nextjs, Prisma and Next Auth**
 
-- 👨‍💻 All of my projects are available at [https://richardgriffiths-portfolio.netlify.app/](https://richardgriffiths-portfolio.netlify.app/) - new portfolio coming soon!
+- 👨‍💻 All of my projects are available at [https://richgriffiths.me.uk/](https://richgriffiths.me.uk/) - new portfolio coming soon!
 
 - 💬 Ask me about **Anything Web!**
 
